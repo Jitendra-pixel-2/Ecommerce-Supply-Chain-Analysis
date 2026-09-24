@@ -5,7 +5,7 @@
 **Dataset:** Olist Brazilian E-Commerce (Kaggle)
 
 ## 📊 Executive Dashboard (Power BI)
-![Dashboard Preview](E-Commerce Supply E-Commerce_Supply_Chain_dashboard.png)
+![Dashboard Preview](E-Commerce_Supply_Chain_dashboard.png)
 
 ## 📌 Project Overview
 This project focuses on analyzing real-world e-commerce data to extract actionable business insights. The analysis targets three core areas critical to any GCC (like Walmart or Target): 
