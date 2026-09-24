@@ -261,3 +261,12 @@ ORDER BY
     Average_Shipping_Cost DESC
 LIMIT 10;
 ```
+
+```sql
+## ⚙️ PHASE 3: Data Visualization & Business Insights (Power BI)
+
+After processing the data in MySQL, it was connected to Power BI to build an interactive dashboard. Key insights derived:
+1. **Sales Performance:** Total Revenue generated is **$8.48M**, heavily driven by 'Beleza_Saude' (Health & Beauty) and 'Relogios_Presentes' (Watches & Gifts).
+2. **SLA Breaches (Delays):** Over **7K+ late deliveries** were identified, with the highest logistics bottlenecks concentrated in **São Paulo (SP)** and **Rio de Janeiro (RJ)**.
+3. **Freight Optimization:** Average Shipping Cost sits at **$38.98**, with northern regions like Roraima (RR) experiencing the highest shipping premiums, highlighting a need for regional warehouse expansion.
+```
