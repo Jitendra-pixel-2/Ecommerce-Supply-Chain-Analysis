@@ -1,8 +1,11 @@
 # 🛒 E-Commerce Supply Chain & Sales Data Analysis
 
 **Domain:** E-commerce / Retail Supply Chain  
-**Tools Used:** MySQL, Data Engineering (ETL)  
+**Tools Used:** MySQL, Data Engineering (ETL), Power BI (Data Visualization)  
 **Dataset:** Olist Brazilian E-Commerce (Kaggle)
+
+## 📊 Executive Dashboard (Power BI)
+![Dashboard Preview](E-Commerce Supply Chain dashboard.png)
 
 ## 📌 Project Overview
 This project focuses on analyzing real-world e-commerce data to extract actionable business insights. The analysis targets three core areas critical to any GCC (like Walmart or Target): 
